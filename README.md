@@ -22,22 +22,22 @@ Sistema Web
 - Usuario: Navegación y compra de productos.
 
 ### CRUD de usuarios
-![CRUD de usuarios]([ruta/a/la/imagen.jpg](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091220.png))
+![CRUD de usuarios](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091220.png)
 
 ### Proceso principal: venta de juguetes
-![Proceso de venta]([ruta/a/la/imagen.jpg](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png))
+![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
 
 
 ### Otras funcionalidades únicas de su proyecto
 - Análisis
-- ![Proceso de venta]([ruta/a/la/imagen.jpg](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png))
+- ![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
 - Facturas
-- ![Proceso de venta]([ruta/a/la/imagen.jpg](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png))
+- ![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
 - Personalización de productos
-- ![Proceso de venta]([ruta/a/la/imagen.jpg](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png))
+- ![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
 
 ## APIs Laravel y consumo de las mismas
-![APIs Laravel]([ruta/a/la/imagen.jpg](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091543.png))
+![APIs Laravel](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091543.png)
 
 ## Dependencias y Configuración
 ### Requisitos mínimos para poner en marcha el proyecto
