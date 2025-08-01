@@ -1,9 +1,9 @@
 # Juguetería Feliz
 
 ## Número de equipo
-[Inserta el número de equipo aquí]
+6
 
-## Integrantes del equipo 6
+## Integrantes del equipo 
 - Nazario Ramirez Cruz - Desarrollador y diseñador
 
 ## ¿Qué hace el sistema?
