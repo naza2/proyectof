@@ -3,11 +3,8 @@
 ## Número de equipo
 [Inserta el número de equipo aquí]
 
-## Integrantes del equipo
+## Integrantes del equipo 6
 - Nazario Ramirez Cruz - Desarrollador y diseñador
-- [Nombre completo] - [Rol]
-- [Nombre completo] - [Rol]
-- [Nombre completo] - [Rol]
 
 ## ¿Qué hace el sistema?
 Juguetería Feliz es un sistema web que permite a los usuarios comprar juguetes de manera fácil y rápida. Los usuarios pueden registrarse, iniciar sesión, y realizar compras de productos disponibles en el catálogo.
