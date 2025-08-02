@@ -28,13 +28,7 @@ Sistema Web
 ![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
 
 
-### Otras funcionalidades únicas de su proyecto
-- Análisis
-- ![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
-- Facturas
-- ![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
-- Personalización de productos
-- ![Proceso de venta](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091315.png)
+
 
 ## APIs Laravel y consumo de las mismas
 ![APIs Laravel](https://github.com/naza2/Login_A/blob/cac9fac2731bccbca1b0cc831276d87a6472c025/Captura%20de%20pantalla%202025-08-01%20091543.png)
